@@ -5,12 +5,13 @@ Anotações da minha evolução no curso Git/Github
 - Cheguei no Módulo Introdução ao Git e Github;
 - Completei o módulo e ficou restando fazer o projeto.
 
-2º Passo
+2º Passo:
 - Fiz a instalação do Git através do link  http://git-scm.com/download/win ;
 - Criei minha conta no GitHub https://github.com/join/plan?plan=free.
 
-3ºPasso
+3º Passo:
 - Utilizei meus conhecimentos adquiridos no curso de introdução ao Git/Github da DIO para criar meu Primeiro Repositório.
 
-4º passo 
+4º Passo: 
 - Estudei a documentação do Git https://git-scm.com/book/pt-br/v2 e aprendi mais alguns comandos que não foram abordados no curso dentre eles o Branch.
+
