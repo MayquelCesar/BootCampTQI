@@ -15,4 +15,16 @@ Anotações da minha evolução no curso Git/Github
 4º Passo: 
 - Estudei a documentação do Git https://git-scm.com/book/pt-br/v2 e aprendi mais alguns comandos que não foram abordados no curso dentre eles o Branch.
 
-5
+5º Passo:
+- Aprendi a fazer Branch e criei um novo;
+
+6º Passo:
+- Aprendi a fazer Merge:
+  1- git pull da branch principal
+  2- criar uma nova branch
+  3- fazer as atualizações na nova branch
+  4- finalzar o trabalho na nova branch
+  5- git checkout na principal
+  6- git pull
+  7- Merge da branch temporária com a branch principal
+  8- git push da banch principal
