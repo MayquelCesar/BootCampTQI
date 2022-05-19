@@ -28,3 +28,10 @@ Anotações da minha evolução no curso Git/Github
   6- git pull
   7- Merge da branch temporária com a branch principal
   8- git push da banch principal
+
+7º Passo:
+- Aprendi a fazer uma Pull request
+
+8º Passo:
+- Aprendi o Git Ignore para "esconder" arquivos e pastas
+  - touch .gitignore
