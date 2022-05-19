@@ -1,1 +1,16 @@
-Anotações
+Anotações da minha evolução no curso Git/Github
+
+1º Passo:
+- Estou fazendo o BootCamp da TQI;
+- Cheguei no Módulo Introdução ao Git e Github;
+- Completei o módulo e ficou restando fazer o projeto.
+
+2º Passo
+- Fiz a instalação do Git através do link  http://git-scm.com/download/win ;
+- Criei minha conta no GitHub https://github.com/join/plan?plan=free.
+
+3ºPasso
+- Utilizei meus conhecimentos adquiridos no curso de introdução ao Git/Github da DIO para criar meu Primeiro Repositório.
+
+4º passo 
+- Estudei a documentação do Git https://git-scm.com/book/pt-br/v2 e aprendi mais alguns comandos que não foram abordados no curso dentre eles o Branch.
