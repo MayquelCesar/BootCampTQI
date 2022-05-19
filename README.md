@@ -2,7 +2,7 @@
 
 ## Projeto Git\Github- Utilizando comandos no GitBash
 
- - **DEMAIS APRENDIZADOS NO ARQUIVO TXT
+ - **DEMAIS APRENDIZADOS NO ARQUIVO TXT**
 
 - Usei o site da GitHub para mais orientações https://docs.github.com/pt
 - Utilizei o guia da Markdown para aprender a syntax básica https://www.markdownguide.org/basic-syntax/
